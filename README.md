@@ -1,2 +1,2 @@
-# piratebayrepository
-chrome extension to search data on different proxies
+# Quick pb search
+A quick search of torrents for pirate bay
